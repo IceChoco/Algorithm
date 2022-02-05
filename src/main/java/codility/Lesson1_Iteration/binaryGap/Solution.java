@@ -27,7 +27,7 @@ class Solution {
         pq.add(0);
         for(int i=0;i<binaryString.length();i++){
             now = binaryString.charAt(i);
-            if(Character.compare(ONE, now)==0){//now가 1이다.
+            if(ONE == now){//now가 1이다.
                 if(!startChk){ //처음 시작
                     startChk = true;
                 }else{//마지막

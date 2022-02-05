@@ -17,7 +17,7 @@ public class bestSolution {
     }
 
     private int dfs(int idx, int[] numbers, int sum, int target){
-        if(idx == 0){
+        if(idx == numbers.length){
             if (sum==target) return 1;
             return 0;
         }
@@ -32,6 +32,6 @@ public class bestSolution {
 //        int[] input = {4, 1, 2, 1};
 //        int target = 4;
 
-        System.out.println(new Solution().solution(input, target));
+        System.out.println(new bestSolution().solution(input, target));
     }
 }

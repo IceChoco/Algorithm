@@ -1,4 +1,4 @@
-package Lesson3_Time_Complexity.TapeEquilibrium;
+package codility.Lesson3_Time_Complexity.TapeEquilibrium;
 /*
 너무 어렵게 생각하지 말자
 1. 구간합처럼 이진트리를 만든 후, N-1만큼 반복하면서 구간합끼리의 절대값 비교하기

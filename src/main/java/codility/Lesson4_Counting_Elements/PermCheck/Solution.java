@@ -1,4 +1,4 @@
-package Lesson4_Counting_Elements.PermCheck;
+package codility.Lesson4_Counting_Elements.PermCheck;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Lesson3_Time_Complexity.PermMissingElem;
+package codility.Lesson3_Time_Complexity.PermMissingElem;
 
 import com.sun.jdi.Value;
 

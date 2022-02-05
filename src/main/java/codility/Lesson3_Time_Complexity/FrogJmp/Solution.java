@@ -1,4 +1,4 @@
-package Lesson3_Time_Complexity.FrogJmp;
+package codility.Lesson3_Time_Complexity.FrogJmp;
 
 import java.io.BufferedReader;
 import java.io.IOException;

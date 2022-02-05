@@ -1,4 +1,4 @@
-package Lesson4_Counting_Elements.FrogRiverOne;
+package codility.Lesson4_Counting_Elements.FrogRiverOne;
 
 import java.util.Arrays;
 
