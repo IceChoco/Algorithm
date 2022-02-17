@@ -1,4 +1,4 @@
-package codility.Lesson11_CountNonDivisible;
+package codility.Lesson11_sieve_Of_Erastosthenes.CountNonDivisible;
 /* [주의해야 할 점]
  * 전체적인 방향은 맞았으나 방향을 너무 어렵게 생각해서 1트는 못한 문제.
  * 배열의 총 element의 수에서 약수의 수를 빼면 "약수가 아닌 element의 수"를 구할 수 있다.

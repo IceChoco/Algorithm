@@ -9,4 +9,5 @@ rebel.xml
 
 # specific sources
 src/main/java/pro/
+src/main/java/test/
 target/

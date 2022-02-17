@@ -10,12 +10,10 @@ public class Solution {
     public int solution(int N){
         int ans = 0, i=1, cnt = 0;
         while((long)i*i<N){
-            cnt++;
             if(N % i == 0) ans+=2;
             i++;
         }
         if(i*i == N) ans++;
-        System.out.println("cnt: "+cnt);
         return ans;
     }
 
