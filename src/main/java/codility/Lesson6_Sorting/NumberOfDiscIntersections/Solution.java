@@ -57,9 +57,9 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        //int[] test = {1,5,2,1,4,0};//1
+        int[] test = {1,5,2,1,4,0};//1
         //int[] test = {1,1,1};//3
-        int[] test = {1, 2147483647, 0};
+//        int[] test = {1, 2147483647, 0};
         System.out.println(new Solution().solution(test));
     }
 }

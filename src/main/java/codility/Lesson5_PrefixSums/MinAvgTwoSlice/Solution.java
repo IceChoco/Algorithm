@@ -21,8 +21,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        //int[] test = {4,2,2,5,1,5,8}; //1
-        int[] test = {5,6,3,4,9}; //2
+        int[] test = {4,2,2,5,1,5,8}; //1
+//        int[] test = {5,6,3,4,9}; //2
         System.out.println(new Solution().solution(test));
     }
 }
